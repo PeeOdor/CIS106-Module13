@@ -1,0 +1,10 @@
+Judge,0.287
+Soto,0.285
+Ohtani,0.310
+Freeman,0.282
+Betts,0.289
+Alvarez,0.293
+Witt,0.332
+Seager,0.278
+Arraez,0.314
+Henderson,0.281
